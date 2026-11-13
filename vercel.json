@@ -1,5 +1,5 @@
 {
-  "installCommand": "npm i && npm --prefix frontend i",
+  "installCommand": "npm i --legacy-peer-deps && npm --prefix frontend i --legacy-peer-deps",
   "buildCommand": "npm --prefix frontend run build",
   "outputDirectory": "frontend/dist",
   "rewrites": [
