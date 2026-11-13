@@ -1,0 +1,6 @@
+{
+  "name": "Digiaccel Task Manager",
+  "description": "Weekly task management and progress tracking To-Do app with mobile UI, CRUD, search, and full-stack architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE"]
+}
